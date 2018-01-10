@@ -1,0 +1,9 @@
+[package]
+name = "the-macro"
+version = "0.1.0"
+authors = ["Daniel Brooks <db48x@db48x.net>"]
+
+[lib]
+proc-macro = true
+
+[dependencies]
